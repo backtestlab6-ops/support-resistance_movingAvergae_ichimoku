@@ -1,18 +1,19 @@
 
-🔬 BackTestLAB — Support & Resistance Scientific Backtest
+#🔬 BackTestLAB — Support & Resistance Scientific Backtest
 
 This project tests whether technical analysis levels truly work as support and resistance using quantitative backtesting.
 
 Included Methods
 Moving Averages as Support/Resistance
 Ichimoku Kijun & Cloud
-Volume Profile (Institutional Daily VP)
 Multi-Asset Testing
-Dynamic Stop Logic
 Candlestick Confirmation Filters
 
+# 📺 Video
+🔗 https://www.youtube.com/@BacktestLAB1965
 
-📥 Important
+
+#📥 Important
 
 This project is designed to run directly in Google Colab.
 
@@ -30,21 +31,26 @@ optimized execution order
 that work best inside Jupyter/Colab environments.
 
 
+---
 
-▶️ How To Run
-Open Google Colab
-Upload the notebook:
-BackTestLAB_Support_Resistance.ipynb
-Run all cells sequentially
-📊 Features
-Institutional-style Volume Profile
+#▶️ How To Run
+
+1. Open Google Colab
+2. Upload the notebook: BackTestLAB_Support_Resistance.ipynb
+3. Run all cells sequentially
+
+
+
+
+
+#📊 Features
 Dynamic support/resistance evaluation
-Scientific win-rate scoring
+Win-rate scoring
 Interactive Plotly charts
 Multi-market testing
 
 
 
-⚠️ Disclaimer
+#⚠️ Disclaimer
 Educational purposes only.
 Not financial advice.
